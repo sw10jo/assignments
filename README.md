@@ -17,5 +17,5 @@ ex) [README.md](/해창/README.md)
 4. pr을 보내주시면 제가 aproval 처리를 한 후에(제가 처리하면 본인 계정으로 이메일이 가게 됩니다.), 확인 후 직접 merge처리를 해보시면 됩니다.
 5. 잘 모르겠을 시, git 관련 강의를 들어보거나, 제게 질문해주세요!
 6. (주의: 직접 main branch에 push를 하는 것이 아닙니다!)
-7. 궁금하시면 상단의 pull requests를 눌러 이전 request기록을 확인해보세요.
+7. 궁금하시면 상단의 pull requests를 눌러 이전 request기록을 확인해보세요. -> pull request 예시용 작업
 8. 다른 사람들이 프로젝트를 관리한 기록도 확인해볼 수 있습니다.
